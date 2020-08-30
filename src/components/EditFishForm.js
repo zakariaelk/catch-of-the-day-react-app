@@ -10,7 +10,7 @@ class EditFishForm extends React.Component {
             name: PropTypes.string,
             desc: PropTypes.string,
             status: PropTypes.string,
-            price: PropTypes.number
+            // price: PropTypes.number
         }),
         updateFish: PropTypes.func,
         index: PropTypes.string
